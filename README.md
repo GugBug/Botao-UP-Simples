@@ -21,4 +21,4 @@ Algumas sugestões de geradores de texto<br>
 Fez tudo de acordo com os passos pode testar e ficar assim:<br>
 ![ImagemDoteste](https://cdn.glitch.me/a5640e58-38d2-457a-a73e-f4d6a1181683/Design%20sem%20nome.gif?v=1639762206972)
 <br><br><hr>
-Para duvidas entre outras coisas [contato@torrewener.ml](mailto:contato@torrewener.ml) coloque o assunto como `Dúvida`
+Para duvidas entre outras coisas [contato@torrewener.ml](mailto:contato@wener.ml) coloque o assunto como `Botao-UP-Simples`
